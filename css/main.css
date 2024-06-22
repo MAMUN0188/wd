@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+header{
+    background-color: #87509c;
+}
+.menu-part li a{
+    text-decoration: none;
+    padding: 3px;
+    margin: 3px;
+}
+.menu-part li a:hover{
+    background-color: rgba(0, 0, 0, 0.234);
+    border-radius: 7px;
+}
+.hero-part{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+#bttn{
+    background-color: #eb7d4b;
+}
+section{
+    padding: 75px;
+    text-align: center;
+}
+#service{
+    background-color: #17c2a4;
+    color: white;
+}
+#team{
+    background-color: #e7f1f8f5;
+    color: #3c4761;
+}
+#skill{
+    color: #3c4761;
+}
+.underline{
+    border-top: 3px solid rgba(0, 0, 0, 0.297);
+    width: 7%;
+    margin: auto;
+    padding-top: 5px;
+    margin-bottom: 10px;
+}
+.icon{
+    font-size: 20px;
+}
+.icon i{
+    padding: 5px;
+    margin: 3px;
+    color: rgb(255, 255, 255);
+}
+.icon i:hover{
+    background-color: rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+.writing-part{
+    padding-bottom: 35px;   
+}
+section p{
+    font-weight: 600;
+}
+#portfolio{
+    background-color: #ffdd99;
+}
+#portfolio ul li{
+    background-color: hsla(40, 79%, 53%, 0.261);
+}
+#portfolio ul li:hover{
+    background-color: white;
+}
+#portfolio ul li a{
+    text-decoration: none; 
+    color: black;
+}
+#about{
+    background-color: #d74680;
+}
